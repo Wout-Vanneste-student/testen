@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello wereld
+=======
+pff
+>>>>>>> 783e6ed5823a196e6a8886391ddf21e7915b36bc
