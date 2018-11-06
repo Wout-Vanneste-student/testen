@@ -1,0 +1,11 @@
+{
+  "name": "testRepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Wout-Vanneste-student/testen.git",
+  "author": "Wout Vanneste <wout.vanneste@student.howest.be>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.25.1"
+  }
+}
